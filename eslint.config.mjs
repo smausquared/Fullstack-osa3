@@ -44,6 +44,7 @@ export default [
         'never'
       ],
       'no-console': 'off',
+      'no-unused-vars': 'off',
     },
   },
 ]
